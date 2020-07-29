@@ -5,7 +5,7 @@
 #ifndef _PLATFORM_INC_
 #define _PLATFORM_INC_
 //#define __AVX512F__
-//#define __AVX2__
+#define __AVX2__
 
 
 #ifdef __AVX2__
